@@ -93,7 +93,7 @@ All bugs were logged in a structured Google Sheet and shared with the developmen
     <img src="screenshots/screenshort_8.png" alt="Vocabulary" width="200"/>
     <img src="screenshots/screenshort_10.png" alt="Learning" width="200"/>
     <img src="screenshots/screenshort_11.png" alt="Learn surah" width="200"/>
-    <img src="screenshots/video.mp4" alt="video" width="200"/>
+    <img src="screenshots/write.mp4" alt="video" width="200"/>
     <img src="screenshots/screenshort_12.png" alt="Community" width="200"/>
     <img src="screenshots/screenshort_13.png" alt="profile" width="200"/>
 </div>
