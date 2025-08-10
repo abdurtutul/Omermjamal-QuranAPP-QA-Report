@@ -84,12 +84,18 @@ All bugs were logged in a structured Google Sheet and shared with the developmen
 ## 🖼 Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 5px; white-space: nowrap;">
-    <img src="screenshots/screen1.png" alt="Registration Screen" width="200"/>
-    <img src="screenshots/screen2.png" alt="Lesson Interface" width="200"/>
-    <img src="screenshots/screen3.png" alt="Gamification Badges" width="200"/>
-    <img src="screenshots/screen4.png" alt="Progress Tracker" width="200"/>
-    <img src="screenshots/screen5.png" alt="Leaderboard" width="200"/>
-    <img src="screenshots/screen6.png" alt="Voice Recognition" width="200"/>
+    <img src="screenshots/screenshort_1.png" alt="Onboarding Screen" width="200"/>
+    <img src="screenshots/screenshort_2.png" alt="Quran Calligraphy" width="200"/>
+    <img src="screenshots/screenshort_3.png" alt="font size" width="200"/>
+    <img src="screenshots/screenshort_4.png" alt="Home Page" width="200"/>
+    <img src="screenshots/screenshort_5.png" alt="read Quran" width="200"/>
+    <img src="screenshots/screenshort_6.png" alt="Surah" width="200"/>
+    <img src="screenshots/screenshort_8.png" alt="Vocabulary" width="200"/>
+    <img src="screenshots/screenshort_10.png" alt="Learning" width="200"/>
+    <img src="screenshots/screenshort_11.png" alt="Learn surah" width="200"/>
+    <img src="screenshots/video.mp4" alt="video" width="200"/>
+    <img src="screenshots/screenshort_12.png" alt="Community" width="200"/>
+    <img src="screenshots/screenshort_13.png" alt="profile" width="200"/>
 </div>
 
 *(Swipe/scroll horizontally to view more screenshots)*
